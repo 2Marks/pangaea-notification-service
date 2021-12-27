@@ -72,6 +72,9 @@ The publish endpoint allows you to publish messages to subscribers of a topic:
 
 #### Resend
 The resend endpoint allows you to resend pending messages:
+   ```sh
+      http://localhost:8000/resend
+   ```
 
 
 #### Thank you for the oppurtunity and Happy Holidays :tada:
